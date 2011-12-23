@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby -wKU
+puts "Hello world"
+
+system("say 'deactivated'")
+
+
+</string>
+	<key>name</key>
+	<string>deactivate</string>
+	<key>semanticClass</key>
+	<string>callback.application.did-deactivate</string>
+	<key>uuid</key>
+	<string>C0CC77E7-D562-44AC-93B5-3113C6784FAF</string>
+</dict>
+</plist>
