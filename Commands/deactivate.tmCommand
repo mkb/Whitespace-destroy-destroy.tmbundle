@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
 	<key>command</key>
 	<string>#!/usr/bin/env ruby -wKU
 puts "Hello world"
@@ -10,11 +12,23 @@ system("say 'deactivated'")
 
 
 </string>
+	<key>input</key>
+	<string>none</string>
+	<key>inputFormat</key>
+	<string>text</string>
 	<key>name</key>
 	<string>deactivate</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>text</string>
+	<key>outputLocation</key>
+	<string>toolTip</string>
 	<key>semanticClass</key>
 	<string>callback.application.did-deactivate</string>
 	<key>uuid</key>
 	<string>C0CC77E7-D562-44AC-93B5-3113C6784FAF</string>
+	<key>version</key>
+	<integer>2</integer>
 </dict>
 </plist>

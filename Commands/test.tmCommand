@@ -6,7 +6,7 @@
 	<string>nop</string>
 	<key>command</key>
 	<string>#!/usr/bin/env ruby -wKU
-puts "Hello world"
+#puts "Hello world"
 
 system("say 'activated'")
 
