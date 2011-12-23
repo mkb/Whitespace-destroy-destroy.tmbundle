@@ -1,4 +1,5 @@
-Whitespace Destroy Destroy: your one-stop shop for terminating excess whitespace with extreme prejudice.
+##Whitespace Destroy Destroy
+###Your one-stop shop for terminating excess whitespace with extreme prejudice.
 
 ---
 *NOTE: This bundle will only work with TextMate 2, which is now in alpha.  Don't expect sane results with the current TextMate release.*
@@ -6,6 +7,7 @@ Whitespace Destroy Destroy: your one-stop shop for terminating excess whitespace
 ----
 
 * Highlight trailing whitespace as an error
+* Highlight mixed spaces/tabs as a profound perversion
 * Strip whitespace when file is manually saved
 * Strip whitespace and save files when focus is lost
 * Strip whitespace and save files when focus is gained
