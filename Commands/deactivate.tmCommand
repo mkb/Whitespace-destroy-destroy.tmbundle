@@ -12,6 +12,8 @@ system("say 'deactivated'")
 
 
 </string>
+	<key>hideFromUser</key>
+	<string>true</string>
 	<key>input</key>
 	<string>none</string>
 	<key>inputFormat</key>
@@ -29,6 +31,6 @@ system("say 'deactivated'")
 	<key>uuid</key>
 	<string>C0CC77E7-D562-44AC-93B5-3113C6784FAF</string>
 	<key>version</key>
-	<integer>2</integer>
+	<string>2</string>
 </dict>
 </plist>

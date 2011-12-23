@@ -12,12 +12,14 @@ system("say 'activated'")
 
 
 </string>
+	<key>hideFromUser</key>
+	<string>true</string>
 	<key>input</key>
 	<string>none</string>
 	<key>inputFormat</key>
 	<string>text</string>
 	<key>isDisabled</key>
-	<false/>
+	<string>false</string>
 	<key>name</key>
 	<string>activate</string>
 	<key>outputCaret</key>
@@ -31,6 +33,6 @@ system("say 'activated'")
 	<key>uuid</key>
 	<string>6A1783AC-3644-4B30-891A-21B83BEA75BE</string>
 	<key>version</key>
-	<integer>2</integer>
+	<string>2</string>
 </dict>
 </plist>
