@@ -1,6 +1,8 @@
 ##Whitespace Destroy Destroy
 ###Your one-stop shop for terminating excess whitespace with extreme prejudice.
 
+![angry robot](https://github.com/mkb/Whitespace-destroy-destroy.tmbundle/raw/master/lost-in-space-robot.jpg)
+
 ---
 *NOTE: This bundle will only work with TextMate 2, which is now in alpha.  Don't expect sane results with the current TextMate release.*
 
