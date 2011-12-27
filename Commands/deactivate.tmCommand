@@ -8,7 +8,8 @@
 	<string>#!/usr/bin/env ruby -wKU
 puts "Hello world"
 
-system("say 'deactivated'")
+#system("say 'deactivated'")
+
 
 
 </string>
